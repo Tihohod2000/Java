@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,9 +30,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Education/Программирование/3 куср второй семест/LB_1.1/ex2/src&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Education/Программирование/3 куср второй семест/LB_1.1/ex2/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -40,7 +47,7 @@
       <recent name="D:\Education\Программирование\3 куср второй семест\LB_1.1\ex2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_11">
+  <component name="RunManager" selected="Application.regex.phonenumber.Main_12">
     <configuration name="Main_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_11" />
       <module name="ex2" />
@@ -48,17 +55,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_6" />
+    <configuration name="Main_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_12" />
       <module name="ex2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="regex.phonenumber.Main_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.phonenumber.Main_12" />
+      <module name="ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regex.phonenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regex.phonenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="regex.phonenumber" />
+      <option name="MAIN_CLASS_NAME" value="regex.phonenumber.lecture_5" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture_6.testSimpleTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regex.numbermatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="regex.numbermatch" />
+      <option name="MAIN_CLASS_NAME" value="regex.numbermatch.lecture_6" />
+      <option name="METHOD_NAME" value="testSimpleTrue" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.regex.phonenumber.Main_12" />
+        <item itemvalue="Application.Main_12" />
         <item itemvalue="Application.Main_11" />
-        <item itemvalue="Application.Main_6" />
+        <item itemvalue="JUnit.lecture_6.testSimpleTrue" />
+        <item itemvalue="JUnit.lecture_5" />
       </list>
     </recent_temporary>
   </component>
@@ -78,8 +132,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main_11.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="1" />
+          <line>47</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
